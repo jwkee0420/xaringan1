@@ -34,7 +34,7 @@ class: center, middle
 * The OLI measures in the visible, near infrared, and shortwave infrared wavelengths in 9 spectral bands (15-30m resolution) while TIRS measures and surface temperature in two thermal bands (100m resolution)
 
 ```{r,echo=FALSE, out.width="45%", fig.align="left"}
-knitr::include_graphics("docs/sensorpresentation_files/img/landsat82.png")
+knitr::include_graphics("sensorpresentation_files/img/landsat82.png")
 ```
 *Landsat-8 in Orbit. Source: [NASA](https://science.nasa.gov/mission/landsat-8-ldcm/)*
 
@@ -111,7 +111,7 @@ xaringanExtra::use_panelset()
 <div class="row">
   <div class="col-left" style="width: 70%; float: left;">
     ```{r, echo=FALSE, out.width="80%"}
-    knitr::include_graphics("docs/sensorpresentation_files/img/Mindmap.png")
+    knitr::include_graphics("sensorpresentation_files/img/Mindmap.png")
     ```
   </div>
   <div class="col-right" style="width: 30%; float: right; padding-left: 20px;">
